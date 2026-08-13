@@ -3,6 +3,6 @@
 	"private": true,
 	"type": "commonjs",
 	"dependencies": {
-		"fastify": "5.3.3"
+		"fastify": "5.8.5"
 	}
 }
