@@ -21,6 +21,6 @@
     "monaco-editor": "0.52.2",
     "tsx": "^4.21.0",
     "typescript": "5.9.3",
-    "vitest": "^2.1.8"
+    "vitest": "^3.2.6"
   }
 }
