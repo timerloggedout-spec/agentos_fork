@@ -3,6 +3,6 @@
 	"private": true,
 	"type": "commonjs",
 	"dependencies": {
-		"mysql2": "3.12.0"
+		"mysql2": "3.23.1"
 	}
 }
