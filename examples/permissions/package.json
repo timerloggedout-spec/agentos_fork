@@ -16,7 +16,7 @@
     "@agentos-software/claude-code": "workspace:*",
     "@agentos-software/opencode": "workspace:*",
     "@agentos-software/pi": "workspace:*",
-    "zod": "^4.1.11",
+    "zod": "^4.6.6",
     "@rivet-dev/agentos": "workspace:*",
     "rivetkit": "catalog:rivetkit"
   },
