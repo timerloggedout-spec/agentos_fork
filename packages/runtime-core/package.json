@@ -194,11 +194,11 @@
 	"dependencies": {
 		"@rivet-dev/agentos-runtime-sidecar": "workspace:*",
 		"@rivetkit/bare-ts": "^0.6.2",
-		"zod": "^4.1.11"
+		"zod": "^4.6.6"
 	},
 	"devDependencies": {
 		"@types/node": "^22.10.2",
 		"typescript": "^5.7.2",
-		"vitest": "^2.1.8"
+		"vitest": "^5.0.5"
 	}
 }
