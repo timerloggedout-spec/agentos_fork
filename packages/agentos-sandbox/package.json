@@ -24,7 +24,7 @@
 		"@rivet-dev/agentos-core": "workspace:*",
 		"@rivet-dev/agentos-runtime-core": "workspace:*",
 		"sandbox-agent": "^0.4.2",
-		"zod": "^4.1.11"
+		"zod": "^4.6.6"
 	},
 	"devDependencies": {
 		"@agentos-software/common": "workspace:*",
